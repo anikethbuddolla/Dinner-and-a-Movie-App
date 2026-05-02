@@ -1,2 +1,5 @@
-Sometimes you just can't decide what to have for dinner! Make a Dinner and a Movie matching website. Grab a random restaurant from Yelp and a random movie from The Movie Database using their public API endpoints and display the match up to the user. The user should be able to randomize the match up without refreshing the page.
-Make sure to open Port 3000 and click Randomize Match a few times to work
+1. Run npm install in the terminal
+2. Then run npm start.
+3. Make sure to open Port 3000
+4. Click Randomize Match a few times to make sure it works
+
